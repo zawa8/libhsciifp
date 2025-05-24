@@ -2,12 +2,8 @@
   "name": "libhsciifp",
   "version": "0.4.22",
   "main": "./dist/export.js",
-  "files": [
-    "./dist"
-  ],
-  "exports": {
-    ".": "./dist/export.js"
-  },
+  "files": [ "./dist" ],
+  "exports": { ".": "./dist/export.js" },
   "scripts": {
     "next:dev": "next dev",
     "next:build": "next build",
