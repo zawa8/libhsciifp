@@ -1,1 +1,1 @@
-export declare const Hsciifontpicker: () => import("react/jsx-runtime").JSX.Element;
+export declare const Hsciifontpicker: () => JSX.Element;
