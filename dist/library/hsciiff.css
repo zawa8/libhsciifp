@@ -54,3 +54,43 @@
     src: url('./fonts/hscii/englosoftw8/englosoftw8asc/sinhalaenglosoftw8asc.woff2') format('woff2');
     font-weight: normal; font-style: normal; font-display: swap;
 }
+@font-face { font-family: 'hindionlyw8asc';
+    src: url('./fonts/hscii/onlyw8/onlyw8asc/hindionlyw8asc.woff2') format('woff2');
+    font-weight: normal; font-style: normal; font-display: swap;
+}
+@font-face { font-family: 'banglaonlyw8asc';
+    src: url('./fonts/hscii/onlyw8/onlyw8asc/banglaonlyw8asc.woff2') format('woff2');
+    font-weight: normal; font-style: normal; font-display: swap;
+}
+@font-face { font-family: 'gurmukhionlyw8asc';
+    src: url('./fonts/hscii/onlyw8/onlyw8asc/gurmukhionlyw8asc.woff2') format('woff2');
+    font-weight: normal; font-style: normal; font-display: swap;
+}
+@font-face { font-family: 'guzrationlyw8asc';
+    src: url('./fonts/hscii/onlyw8/onlyw8asc/guzrationlyw8asc.woff2') format('woff2');
+    font-weight: normal; font-style: normal; font-display: swap;
+}
+@font-face { font-family: 'oriyaonlyw8asc';
+    src: url('./fonts/hscii/onlyw8/onlyw8asc/oriyaonlyw8asc.woff2') format('woff2');
+    font-weight: normal; font-style: normal; font-display: swap;
+}
+@font-face { font-family: 'tamilonlyw8asc';
+    src: url('./fonts/hscii/onlyw8/onlyw8asc/tamilonlyw8asc.woff2') format('woff2');
+    font-weight: normal; font-style: normal; font-display: swap;
+}
+@font-face { font-family: 'teluguonlyw8asc';
+    src: url('./fonts/hscii/onlyw8/onlyw8asc/teluguonlyw8asc.woff2') format('woff2');
+    font-weight: normal; font-style: normal; font-display: swap;
+}
+@font-face { font-family: 'kannadaonlyw8asc';
+    src: url('./fonts/hscii/onlyw8/onlyw8asc/kannadaonlyw8asc.woff2') format('woff2');
+    font-weight: normal; font-style: normal; font-display: swap;
+}
+@font-face { font-family: 'malayalamonlyw8asc';
+    src: url('./fonts/hscii/onlyw8/onlyw8asc/malayalamonlyw8asc.woff2') format('woff2');
+    font-weight: normal; font-style: normal; font-display: swap;
+}
+@font-face { font-family: 'sinhalaonlyw8asc';
+    src: url('./fonts/hscii/onlyw8/onlyw8asc/sinhalaonlyw8asc.woff2') format('woff2');
+    font-weight: normal; font-style: normal; font-display: swap;
+}
