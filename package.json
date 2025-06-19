@@ -1,6 +1,6 @@
 {
   "name": "libhsciifp",
-  "version": "0.4.35",
+  "version": "0.4.36",
   "main": "./dist/export.js",
   "files": [
     "./dist"
